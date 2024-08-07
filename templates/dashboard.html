@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.js" integrity="sha256-8zyeSXm+yTvzUN1VgAOinFgaVFEFTyYzWShOy9w7WoQ=" crossorigin="anonymous"></script>
+    <style>
+        body {
+            background: url('static/speaker-2371550_1920.jpg') no-repeat center fixed;
+            background-size: cover;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            min-height: 100vh;
+        }
+        .vertical-navbar {
+            background: rgba(0, 0, 0, 0.5);
+            color: #fff;
+            width: 200px;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            position: fixed;
+            height: 100%;
+        }
+        .vertical-navbar a {
+            color: #fff;
+            text-decoration: none;
+            padding: 10px 0;
+            display: block;
+        }
+        .vertical-navbar a:hover {
+            background-color: #575757;
+            padding-left: 10px;
+        }
+        .content {
+            margin-left: 220px; /* Adjust based on navbar width */
+            padding: 20px;
+            flex: 1;
+            color: white;
+        }
+        h1, h2 {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
+        .card {
+            color: white;
+            border: 1px solid #ccc;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            background: rgba(0, 0, 0, 0.5);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 150px; /* Adjust as needed */
+        }
+        .card-left {
+            width: 65%;
+            font-size: 0.9em;
+        }
+        .card-right {
+            width: 35%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 2em;
+            font-weight: bold;
+            color: beige;
+        }
+        .chart-container {
+            
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .chart {
+            background: beige;
+            margin-bottom: 20px;
+            margin-radius:20px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="vertical-navbar">
+        
+        <div class="nav-links">
+            <a href="/">Home</a>
+            <a href="/profile">Profile</a>
+            <a href="#charts">Charts</a>
+            <a href="/logout">Logout</a>
+        </div>
+    </nav>
+    <div class="content">
+        <div id="device-cards" class="grid-container">
+            <!-- Device cards will be inserted here -->
+        </div>
+        <div id="charts" class="chart-container">
+            <!-- Charts will be inserted here -->
+        </div>
+    </div>
+
+<script>
+const deviceData = {
+    1: [],
+    2: [],
+    3: [],
+    4: [],
+    5: []
+};
+const maxDataPoints = 10;
+const charts = {};
+
+function fetchDeviceData() {
+    $.ajax({
+        url: '/device_data',
+        type: 'GET',
+        success: function(data) {
+            console.log("Fetched data:", data);  // Log the fetched data
+            data.forEach(device => {
+                const deviceId = device.device_id;
+
+                // Update card for each device
+                let card = $(`#device-${deviceId}-card`);
+                if (card.length === 0) {
+                    card = $(`
+                        <div class="card" id="device-${deviceId}-card">
+                            <div class="card-left">
+                                <p id="device-${deviceId}-id">Device ID: ${device.device_id}</p>
+                                <p id="device-${deviceId}-timestamp">Timestamp: ${new Date(device.timestamp * 1000).toLocaleString()}</p>
+                            </div>
+                            <div class="card-right" id="device-${deviceId}-energy">
+                                ${device.energy_consumption} kWh
+                            </div>
+                        </div>
+                    `);
+                    $('#device-cards').append(card);
+
+                    // Initialize chart for this device
+                    let chartContainer = $(`#chart-container-${deviceId}`);
+                    if (chartContainer.length === 0) {
+                        chartContainer = $(`
+                            <div class="chart" id="chart-container-${deviceId}">
+                                <canvas id="chart-${deviceId}" width="400" height="150"></canvas>
+                            </div>
+                        `);
+                        $('#charts').append(chartContainer);
+
+                        const ctx = document.getElementById(`chart-${deviceId}`).getContext('2d');
+                        charts[deviceId] = new Chart(ctx, {
+                            type: 'line',
+                            data: {
+                                labels: [],
+                                datasets: [{
+                                    label: `Device ${deviceId} Energy Consumption (kWh)`,
+                                    data: [],
+                                    borderColor: getRandomColor(),
+                                    borderWidth: 1,
+                                    fill: false
+                                }]
+                            },
+                            options: {
+                                scales: {
+                                    x: {
+                                        type: 'time',
+                                        time: {
+                                            unit: 'second'
+                                        },
+                                        title: {
+                                            display: true,
+                                            text: 'Time'
+                                        }
+                                    },
+                                    y: {
+                                        title: {
+                                            display: true,
+                                            text: 'Energy Consumption (kWh)'
+                                        }
+                                    }
+                                }
+                            }
+                        });
+                    }
+                } else {
+                    $(`#device-${deviceId}-id`).text('Device ID: ' + device.device_id);
+                    $(`#device-${deviceId}-timestamp`).text('Timestamp: ' + new Date(device.timestamp * 1000).toLocaleString());
+                    $(`#device-${deviceId}-energy`).text(device.energy_consumption + ' kWh');
+                }
+
+                // Add latest data to the deviceData array
+                if (deviceData[deviceId].length >= maxDataPoints) {
+                    deviceData[deviceId].shift(); // Remove the oldest data point if we have more than maxDataPoints
+                }
+                deviceData[deviceId].push(device);
+
+                // Update chart for this device
+                updateChart(deviceId);
+            });
+
+            console.log("Updated device data:", deviceData);  // Log the updated device data
+        },
+        error: function(error) {
+            console.log('Error fetching device data:', error);
+        }
+    });
+}
+
+function updateChart(deviceId) {
+    const labels = deviceData[deviceId].map(data => new Date(data.timestamp * 1000).toLocaleTimeString());
+    const energyConsumption = deviceData[deviceId].map(data => data.energy_consumption);
+
+    charts[deviceId].data.labels = labels;
+    charts[deviceId].data.datasets[0].data = energyConsumption;
+    charts[deviceId].update();
+}
+
+function getRandomColor() {
+    const letters = '0123456789ABCDEF';
+    let color = '#';
+    for (let i = 0; i < 6; i++) {
+        color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
+}
+
+// Fetch device data every 7 seconds
+setInterval(fetchDeviceData, 10000);
+
+// Fetch device data on page load
+$(document).ready(function() {
+    fetchDeviceData();
+});
+</script>
+</body>
+</html>

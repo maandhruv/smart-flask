@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color:white;
+            background: url('static/pexels-danbuilds-633409.jpg') no-repeat center fixed;
+            background-size: cover;
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: transparent;
+            box-shadow: 0 0 5px 5px green;
+        }
+        h1,p {
+            text-align: center;
+        }
+        .profile-info {
+            margin: 20px 0;
+        }
+        .profile-info p {
+            font-size: 18px;
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Your Profile</h1>
+        <div class="profile-info">
+            <p><strong>Username:&nbsp;&nbsp;</strong> {{ user.username }}</p><br>
+            <p><strong>Date of Joining:&nbsp;&nbsp;</strong> {{ user.date_of_joining.strftime('%Y-%m-%d %H:%M:%S') }}</p><br>
+            <p><strong>Last Login:&nbsp;&nbsp;</strong> {{ user.last_login.strftime('%Y-%m-%d %H:%M:%S') if user.last_login else 'Never' }}</p>
+        </div>
+    </div>
+</body>
+</html>

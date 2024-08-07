@@ -1,0 +1,2582 @@
+[
+    {
+        "device_id": 3,
+        "timestamp": 1722700358.2468622,
+        "energy_consumption": 2.32
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760423.710465,
+        "energy_consumption": 1.7
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760429.7182431,
+        "energy_consumption": 3.15
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760435.729565,
+        "energy_consumption": 2.61
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760441.7390232,
+        "energy_consumption": 2.94
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760447.750916,
+        "energy_consumption": 3.22
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760453.7574751,
+        "energy_consumption": 2.47
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760459.7631319,
+        "energy_consumption": 1.74
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760465.7733939,
+        "energy_consumption": 2.18
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760471.784118,
+        "energy_consumption": 2.07
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760477.793601,
+        "energy_consumption": 1.81
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760483.803904,
+        "energy_consumption": 1.9
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760905.063156,
+        "energy_consumption": 0.97
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760911.0691772,
+        "energy_consumption": 1.85
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760917.077982,
+        "energy_consumption": 1.56
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760923.090053,
+        "energy_consumption": 1.79
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760929.1001441,
+        "energy_consumption": 1.66
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760935.115257,
+        "energy_consumption": 2.09
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760941.130738,
+        "energy_consumption": 1.21
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760947.140705,
+        "energy_consumption": 2.74
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760953.1522381,
+        "energy_consumption": 2.81
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760959.1635609,
+        "energy_consumption": 1.6
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760965.1735182,
+        "energy_consumption": 3.15
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722760971.179913,
+        "energy_consumption": 1.38
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722761154.188836,
+        "energy_consumption": 2.07
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722761160.1977322,
+        "energy_consumption": 3.02
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722761166.204782,
+        "energy_consumption": 0.8
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722761172.217555,
+        "energy_consumption": 2.23
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722761178.234904,
+        "energy_consumption": 2.45
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722761184.247315,
+        "energy_consumption": 2.22
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722761190.257136,
+        "energy_consumption": 1.33
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722762933.635749,
+        "energy_consumption": 1.41
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722762939.648919,
+        "energy_consumption": 2.68
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722762945.661681,
+        "energy_consumption": 3.06
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722762951.6705768,
+        "energy_consumption": 3.24
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722762957.6839528,
+        "energy_consumption": 3.41
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722762963.6974359,
+        "energy_consumption": 1.37
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722762969.704781,
+        "energy_consumption": 2.33
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722762975.7183192,
+        "energy_consumption": 1.56
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722762981.731589,
+        "energy_consumption": 3.29
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722762987.7448761,
+        "energy_consumption": 2.69
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722762999.211114,
+        "energy_consumption": 2.6
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722763006.230965,
+        "energy_consumption": 2.35
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722763013.249213,
+        "energy_consumption": 2.12
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722763020.2661278,
+        "energy_consumption": 3.05
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722763027.2813492,
+        "energy_consumption": 2.07
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722763034.298025,
+        "energy_consumption": 0.75
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722763392.446492,
+        "energy_consumption": 1.86
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722763399.4613912,
+        "energy_consumption": 1.04
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722763406.480468,
+        "energy_consumption": 0.56
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722763413.49881,
+        "energy_consumption": 1.85
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722763420.511199,
+        "energy_consumption": 1.01
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722763427.526189,
+        "energy_consumption": 2.81
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722763434.545751,
+        "energy_consumption": 3.12
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722763441.55871,
+        "energy_consumption": 2.02
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722763448.574108,
+        "energy_consumption": 3.27
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722763455.591842,
+        "energy_consumption": 1.84
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722763462.613761,
+        "energy_consumption": 2.1
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722763469.6321821,
+        "energy_consumption": 1.6
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722763476.655325,
+        "energy_consumption": 2.92
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722764116.34,
+        "energy_consumption": 3.46
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722764123.3554611,
+        "energy_consumption": 1.42
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722764130.375225,
+        "energy_consumption": 3.49
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722764137.3918898,
+        "energy_consumption": 1.79
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722764144.410207,
+        "energy_consumption": 1.07
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722764151.432798,
+        "energy_consumption": 2.05
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722764158.4492218,
+        "energy_consumption": 1.41
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722764165.467187,
+        "energy_consumption": 2.18
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722764172.489276,
+        "energy_consumption": 3.45
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722767634.8026922,
+        "energy_consumption": 1.95
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722767641.8140302,
+        "energy_consumption": 2.92
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722767648.8287518,
+        "energy_consumption": 2.44
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722767655.849067,
+        "energy_consumption": 2.37
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722767662.8712142,
+        "energy_consumption": 2.43
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722767669.893513,
+        "energy_consumption": 0.62
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722767676.913085,
+        "energy_consumption": 3.09
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722767683.936339,
+        "energy_consumption": 1.21
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722767690.9582112,
+        "energy_consumption": 3.15
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780324.731034,
+        "energy_consumption": 1.6
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780331.7457569,
+        "energy_consumption": 0.92
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780338.762711,
+        "energy_consumption": 2.45
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780345.779371,
+        "energy_consumption": 2.91
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780352.800205,
+        "energy_consumption": 2.81
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780359.8230999,
+        "energy_consumption": 1.66
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780366.8413188,
+        "energy_consumption": 0.73
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780373.857316,
+        "energy_consumption": 1.82
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780380.874897,
+        "energy_consumption": 2.9
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780387.889371,
+        "energy_consumption": 1.75
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780394.9088771,
+        "energy_consumption": 1.11
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780401.9184341,
+        "energy_consumption": 2.86
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780408.9319968,
+        "energy_consumption": 2.47
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780415.950241,
+        "energy_consumption": 3.26
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780422.968609,
+        "energy_consumption": 1.22
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780429.9847932,
+        "energy_consumption": 1.64
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780437.004643,
+        "energy_consumption": 2.65
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780444.0263512,
+        "energy_consumption": 1.24
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780451.045661,
+        "energy_consumption": 1.28
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780458.064586,
+        "energy_consumption": 2.11
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780465.090682,
+        "energy_consumption": 1.88
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780472.115927,
+        "energy_consumption": 2.27
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780479.1366148,
+        "energy_consumption": 1.6
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780486.157538,
+        "energy_consumption": 1.49
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780493.179447,
+        "energy_consumption": 2.57
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780500.2092319,
+        "energy_consumption": 2.68
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780507.245215,
+        "energy_consumption": 2.62
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780514.271072,
+        "energy_consumption": 1.15
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780521.2869399,
+        "energy_consumption": 1.77
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780528.308415,
+        "energy_consumption": 2.68
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780535.335676,
+        "energy_consumption": 0.83
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780542.3579788,
+        "energy_consumption": 1.73
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780549.375527,
+        "energy_consumption": 2.71
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780556.409268,
+        "energy_consumption": 0.6
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780563.439264,
+        "energy_consumption": 3.36
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780570.4680781,
+        "energy_consumption": 1.56
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780577.4992719,
+        "energy_consumption": 2.6
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780584.522589,
+        "energy_consumption": 0.92
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780591.551312,
+        "energy_consumption": 2.85
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780598.5723689,
+        "energy_consumption": 0.97
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780605.594006,
+        "energy_consumption": 1.18
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780612.625041,
+        "energy_consumption": 0.69
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780619.654294,
+        "energy_consumption": 2.61
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780626.685587,
+        "energy_consumption": 2.92
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780633.7147038,
+        "energy_consumption": 1.39
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780640.7398632,
+        "energy_consumption": 2.5
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780647.76754,
+        "energy_consumption": 3.36
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780654.794461,
+        "energy_consumption": 1.2
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780661.8278668,
+        "energy_consumption": 1.7
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780668.851446,
+        "energy_consumption": 1.09
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780675.881343,
+        "energy_consumption": 2.99
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780682.913547,
+        "energy_consumption": 1.44
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780689.935425,
+        "energy_consumption": 2.84
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780696.959796,
+        "energy_consumption": 0.74
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780703.992505,
+        "energy_consumption": 2.95
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780711.023212,
+        "energy_consumption": 2.63
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780718.0482361,
+        "energy_consumption": 2.28
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780725.073741,
+        "energy_consumption": 1.65
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780732.103282,
+        "energy_consumption": 3.17
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780739.134304,
+        "energy_consumption": 2.02
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780746.160707,
+        "energy_consumption": 2.74
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780753.189916,
+        "energy_consumption": 1.79
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780760.220741,
+        "energy_consumption": 0.9
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780767.2519019,
+        "energy_consumption": 2.31
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780774.286564,
+        "energy_consumption": 2.32
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780781.311928,
+        "energy_consumption": 1.83
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780788.359197,
+        "energy_consumption": 2.88
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780795.388129,
+        "energy_consumption": 1.42
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780802.420243,
+        "energy_consumption": 0.69
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780809.449273,
+        "energy_consumption": 2.66
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780816.479622,
+        "energy_consumption": 1.08
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780823.511966,
+        "energy_consumption": 2.24
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780830.5469708,
+        "energy_consumption": 2.87
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780837.5783198,
+        "energy_consumption": 2.1
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780844.610014,
+        "energy_consumption": 2.5
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780851.639101,
+        "energy_consumption": 3.5
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780858.672758,
+        "energy_consumption": 2.53
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780865.703485,
+        "energy_consumption": 3.33
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780872.735338,
+        "energy_consumption": 2.9
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780879.767808,
+        "energy_consumption": 1.4
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780886.798435,
+        "energy_consumption": 2.85
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780893.836975,
+        "energy_consumption": 1.85
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780900.863165,
+        "energy_consumption": 2.93
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780907.899019,
+        "energy_consumption": 1.38
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780914.923593,
+        "energy_consumption": 2.76
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780921.9507232,
+        "energy_consumption": 2.75
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780928.979689,
+        "energy_consumption": 2.66
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780936.0058439,
+        "energy_consumption": 0.76
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780943.030824,
+        "energy_consumption": 0.67
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780950.067745,
+        "energy_consumption": 2.22
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780957.0974998,
+        "energy_consumption": 0.64
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780964.127867,
+        "energy_consumption": 1.76
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780971.165529,
+        "energy_consumption": 1.91
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780978.195387,
+        "energy_consumption": 1.2
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780985.228378,
+        "energy_consumption": 1.8
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780992.262336,
+        "energy_consumption": 3.34
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722780999.301816,
+        "energy_consumption": 0.87
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781006.330077,
+        "energy_consumption": 0.55
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781013.3588228,
+        "energy_consumption": 2.65
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781020.386975,
+        "energy_consumption": 3.31
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781027.42695,
+        "energy_consumption": 1.97
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781034.458477,
+        "energy_consumption": 2.74
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781041.494313,
+        "energy_consumption": 0.51
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781048.5467641,
+        "energy_consumption": 1.81
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781055.572726,
+        "energy_consumption": 2.31
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781062.60515,
+        "energy_consumption": 2.86
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781069.647527,
+        "energy_consumption": 3.15
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781076.68035,
+        "energy_consumption": 0.68
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781083.715115,
+        "energy_consumption": 3.33
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781090.751113,
+        "energy_consumption": 0.8
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781097.788147,
+        "energy_consumption": 3.39
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781104.8215702,
+        "energy_consumption": 1.75
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781111.855587,
+        "energy_consumption": 1.38
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781118.89116,
+        "energy_consumption": 2.92
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781125.9289138,
+        "energy_consumption": 2.01
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781132.96172,
+        "energy_consumption": 2.11
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781140.000095,
+        "energy_consumption": 3.26
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781147.0411599,
+        "energy_consumption": 1.64
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781154.0792809,
+        "energy_consumption": 0.67
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781161.115071,
+        "energy_consumption": 0.9
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781168.152073,
+        "energy_consumption": 0.65
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781175.1916401,
+        "energy_consumption": 3.19
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781182.2210088,
+        "energy_consumption": 1.34
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781189.2586591,
+        "energy_consumption": 3.49
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781196.2964501,
+        "energy_consumption": 2.41
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781203.334443,
+        "energy_consumption": 2.26
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781210.372545,
+        "energy_consumption": 1.41
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781217.410093,
+        "energy_consumption": 3.2
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781224.447192,
+        "energy_consumption": 2.06
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781231.491189,
+        "energy_consumption": 3.09
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781238.5331662,
+        "energy_consumption": 0.9
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781245.564767,
+        "energy_consumption": 3.34
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781252.60165,
+        "energy_consumption": 1.12
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781259.638131,
+        "energy_consumption": 1.17
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781266.678984,
+        "energy_consumption": 3.21
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781273.7178319,
+        "energy_consumption": 2.37
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781280.7567859,
+        "energy_consumption": 0.83
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781287.7947688,
+        "energy_consumption": 2.45
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781294.833629,
+        "energy_consumption": 2.7
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781301.8747678,
+        "energy_consumption": 2.18
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781308.908349,
+        "energy_consumption": 1.22
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781315.939179,
+        "energy_consumption": 3.35
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781322.9814909,
+        "energy_consumption": 3.34
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781330.0156538,
+        "energy_consumption": 3.37
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781337.0500832,
+        "energy_consumption": 2.57
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781344.086048,
+        "energy_consumption": 3.44
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781351.135975,
+        "energy_consumption": 2.85
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781358.1699781,
+        "energy_consumption": 2.24
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781365.20546,
+        "energy_consumption": 2.6
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781372.2465541,
+        "energy_consumption": 0.66
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781379.288809,
+        "energy_consumption": 1.72
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781386.325532,
+        "energy_consumption": 1.42
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781393.367903,
+        "energy_consumption": 1.46
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781400.4081879,
+        "energy_consumption": 0.59
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781407.445853,
+        "energy_consumption": 2.06
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781414.475898,
+        "energy_consumption": 0.61
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781421.515382,
+        "energy_consumption": 2.44
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781428.55138,
+        "energy_consumption": 2.21
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781435.591178,
+        "energy_consumption": 1.4
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781442.648575,
+        "energy_consumption": 2.43
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781449.692535,
+        "energy_consumption": 1.28
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781456.737143,
+        "energy_consumption": 2.16
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781463.777385,
+        "energy_consumption": 0.8
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781470.822528,
+        "energy_consumption": 2.57
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781477.867023,
+        "energy_consumption": 1.55
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781484.914336,
+        "energy_consumption": 0.71
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781491.952418,
+        "energy_consumption": 0.83
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781498.997962,
+        "energy_consumption": 1.13
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781506.03916,
+        "energy_consumption": 2.27
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781513.080829,
+        "energy_consumption": 1.13
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781520.1195562,
+        "energy_consumption": 2.68
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781527.160314,
+        "energy_consumption": 3.06
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781534.221198,
+        "energy_consumption": 2.47
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781541.246621,
+        "energy_consumption": 2.07
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781548.283595,
+        "energy_consumption": 3.2
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781555.320051,
+        "energy_consumption": 2.39
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781562.365619,
+        "energy_consumption": 0.89
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781569.409918,
+        "energy_consumption": 0.84
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781576.450221,
+        "energy_consumption": 2.99
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781583.492,
+        "energy_consumption": 2.09
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781590.537893,
+        "energy_consumption": 1.16
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781597.5801442,
+        "energy_consumption": 1.23
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781604.623453,
+        "energy_consumption": 2.95
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781611.665376,
+        "energy_consumption": 2.72
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781618.703563,
+        "energy_consumption": 1.9
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781625.756931,
+        "energy_consumption": 3.2
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781632.799964,
+        "energy_consumption": 1.25
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781639.845335,
+        "energy_consumption": 2.56
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781646.886661,
+        "energy_consumption": 0.67
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781653.924984,
+        "energy_consumption": 2.6
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781660.96996,
+        "energy_consumption": 1.57
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781668.018786,
+        "energy_consumption": 3.31
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781675.063394,
+        "energy_consumption": 2.67
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781682.104743,
+        "energy_consumption": 2.32
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781689.1373272,
+        "energy_consumption": 1.56
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781696.177425,
+        "energy_consumption": 0.73
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781703.220368,
+        "energy_consumption": 3.24
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781710.258934,
+        "energy_consumption": 3.17
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781717.3010461,
+        "energy_consumption": 0.6
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781724.333753,
+        "energy_consumption": 0.71
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781731.3835971,
+        "energy_consumption": 2.44
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781738.431683,
+        "energy_consumption": 2.63
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781745.479247,
+        "energy_consumption": 3.48
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781752.519077,
+        "energy_consumption": 3.4
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781759.560077,
+        "energy_consumption": 3.1
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781766.604348,
+        "energy_consumption": 2.36
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781773.637967,
+        "energy_consumption": 1.16
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781780.677873,
+        "energy_consumption": 2.63
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781787.703358,
+        "energy_consumption": 3.38
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781794.7452412,
+        "energy_consumption": 2.92
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781801.781373,
+        "energy_consumption": 3.02
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781808.819547,
+        "energy_consumption": 0.51
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781815.8531368,
+        "energy_consumption": 2.68
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781822.898435,
+        "energy_consumption": 0.95
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781829.937648,
+        "energy_consumption": 1.37
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781836.987503,
+        "energy_consumption": 2.9
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781844.033709,
+        "energy_consumption": 2.2
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781851.078932,
+        "energy_consumption": 0.84
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781858.1201868,
+        "energy_consumption": 0.86
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781865.155094,
+        "energy_consumption": 1.44
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781872.194732,
+        "energy_consumption": 3.07
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781879.234833,
+        "energy_consumption": 2.83
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781886.2835178,
+        "energy_consumption": 0.8
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781893.3144698,
+        "energy_consumption": 0.64
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781900.3613608,
+        "energy_consumption": 0.56
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781907.4053419,
+        "energy_consumption": 0.57
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781914.449729,
+        "energy_consumption": 2.66
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781921.4917529,
+        "energy_consumption": 2.92
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781928.539834,
+        "energy_consumption": 0.56
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781935.580749,
+        "energy_consumption": 2.83
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781942.624771,
+        "energy_consumption": 2.19
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781949.670152,
+        "energy_consumption": 0.79
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781956.715756,
+        "energy_consumption": 1.24
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781963.762114,
+        "energy_consumption": 2.92
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781970.806838,
+        "energy_consumption": 0.84
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781977.8498409,
+        "energy_consumption": 3.37
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781984.887455,
+        "energy_consumption": 0.96
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781991.925428,
+        "energy_consumption": 2.65
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722781998.961279,
+        "energy_consumption": 3.11
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722782005.997291,
+        "energy_consumption": 1.72
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722782013.0368462,
+        "energy_consumption": 1.7
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722782020.086208,
+        "energy_consumption": 0.68
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722782027.128564,
+        "energy_consumption": 3.38
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722782034.176316,
+        "energy_consumption": 3.4
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722782041.223517,
+        "energy_consumption": 0.79
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722782048.264836,
+        "energy_consumption": 2.5
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722782055.3031511,
+        "energy_consumption": 3.16
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722782062.341824,
+        "energy_consumption": 2.4
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722782069.369965,
+        "energy_consumption": 2.54
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722782076.405359,
+        "energy_consumption": 2.35
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792604.9802408,
+        "energy_consumption": 1.26
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792612.0082161,
+        "energy_consumption": 2.51
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792619.0562282,
+        "energy_consumption": 1.16
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792626.104251,
+        "energy_consumption": 2.3
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792633.153771,
+        "energy_consumption": 3.45
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792640.20225,
+        "energy_consumption": 2.64
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792718.838984,
+        "energy_consumption": 0.91
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792720.870452,
+        "energy_consumption": 2.11
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792722.916214,
+        "energy_consumption": 0.52
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792724.9573078,
+        "energy_consumption": 1.44
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792727.005339,
+        "energy_consumption": 3.34
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792729.0398898,
+        "energy_consumption": 1.77
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792731.092746,
+        "energy_consumption": 0.98
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792733.141087,
+        "energy_consumption": 1.26
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792735.187521,
+        "energy_consumption": 0.63
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792737.2365508,
+        "energy_consumption": 0.79
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792739.280891,
+        "energy_consumption": 1.44
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792741.331429,
+        "energy_consumption": 2.89
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792743.3766,
+        "energy_consumption": 1.12
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792745.4131641,
+        "energy_consumption": 2.35
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792747.440233,
+        "energy_consumption": 1.95
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792749.475828,
+        "energy_consumption": 2.29
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722792751.517159,
+        "energy_consumption": 0.54
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958898.8464708,
+        "energy_consumption": 1.77
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958900.870532,
+        "energy_consumption": 2.84
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958902.9002361,
+        "energy_consumption": 1.87
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958904.935842,
+        "energy_consumption": 2.48
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958906.9752462,
+        "energy_consumption": 1.6
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958909.014976,
+        "energy_consumption": 1.83
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958911.0569868,
+        "energy_consumption": 1.91
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958913.094867,
+        "energy_consumption": 1.52
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958915.1299899,
+        "energy_consumption": 1.39
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958917.1625369,
+        "energy_consumption": 2.96
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958919.1960971,
+        "energy_consumption": 1.32
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958921.236939,
+        "energy_consumption": 1.1
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958923.268089,
+        "energy_consumption": 2.4
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958925.302779,
+        "energy_consumption": 0.98
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958927.3435671,
+        "energy_consumption": 1.4
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958929.381999,
+        "energy_consumption": 2.19
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958931.4214349,
+        "energy_consumption": 2.6
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958933.4618728,
+        "energy_consumption": 2.4
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958935.504062,
+        "energy_consumption": 3.29
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958937.543166,
+        "energy_consumption": 3.31
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958939.58517,
+        "energy_consumption": 0.83
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958941.625844,
+        "energy_consumption": 3.45
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958943.6610088,
+        "energy_consumption": 2.87
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958945.702197,
+        "energy_consumption": 1.09
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958947.742021,
+        "energy_consumption": 0.68
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958949.7801259,
+        "energy_consumption": 3.08
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958951.811583,
+        "energy_consumption": 0.72
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958953.8511539,
+        "energy_consumption": 2.97
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958955.889333,
+        "energy_consumption": 2.32
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958957.917322,
+        "energy_consumption": 2.08
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958959.947069,
+        "energy_consumption": 3.09
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958961.971276,
+        "energy_consumption": 3.39
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958964.005467,
+        "energy_consumption": 1.41
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958966.047252,
+        "energy_consumption": 1.14
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958968.07812,
+        "energy_consumption": 1.49
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958970.113037,
+        "energy_consumption": 2.87
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958972.144419,
+        "energy_consumption": 1.81
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958974.174722,
+        "energy_consumption": 2.99
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958976.2096891,
+        "energy_consumption": 1.1
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958978.252598,
+        "energy_consumption": 3.11
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958980.293918,
+        "energy_consumption": 1.11
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958982.336214,
+        "energy_consumption": 2.25
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958984.378735,
+        "energy_consumption": 1.3
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958986.416707,
+        "energy_consumption": 3.24
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958988.458227,
+        "energy_consumption": 1.41
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958990.501224,
+        "energy_consumption": 3.09
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958992.5449228,
+        "energy_consumption": 1.61
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958994.582287,
+        "energy_consumption": 0.53
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958996.6193569,
+        "energy_consumption": 3.37
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722958998.6486049,
+        "energy_consumption": 1.75
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959000.681057,
+        "energy_consumption": 1.99
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959002.721993,
+        "energy_consumption": 1.71
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959004.767561,
+        "energy_consumption": 3.13
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959006.811647,
+        "energy_consumption": 1.73
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959008.85445,
+        "energy_consumption": 1.94
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959010.892394,
+        "energy_consumption": 2.12
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959012.9334579,
+        "energy_consumption": 1.56
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959014.9779992,
+        "energy_consumption": 1.94
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959017.015363,
+        "energy_consumption": 2.37
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959019.0532491,
+        "energy_consumption": 1.68
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959021.095663,
+        "energy_consumption": 2.42
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959023.1371279,
+        "energy_consumption": 3.19
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959256.929729,
+        "energy_consumption": 2.81
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959258.96481,
+        "energy_consumption": 0.55
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959261.012274,
+        "energy_consumption": 1.77
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959263.0577338,
+        "energy_consumption": 1.85
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959265.093716,
+        "energy_consumption": 0.61
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959267.1342232,
+        "energy_consumption": 2.14
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959269.187144,
+        "energy_consumption": 1.07
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959271.23009,
+        "energy_consumption": 0.67
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959273.274213,
+        "energy_consumption": 1.41
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959275.329675,
+        "energy_consumption": 3.07
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959277.374805,
+        "energy_consumption": 3.46
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959279.421535,
+        "energy_consumption": 3.38
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959281.4718232,
+        "energy_consumption": 2.67
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959283.5256882,
+        "energy_consumption": 2.4
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959285.581246,
+        "energy_consumption": 0.57
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959287.636485,
+        "energy_consumption": 1.74
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959289.6927922,
+        "energy_consumption": 2.06
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959291.7271738,
+        "energy_consumption": 1.19
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959293.76911,
+        "energy_consumption": 1.57
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959295.824168,
+        "energy_consumption": 2.73
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959297.8627698,
+        "energy_consumption": 2.8
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959299.892631,
+        "energy_consumption": 2.62
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959301.926604,
+        "energy_consumption": 0.58
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959303.960232,
+        "energy_consumption": 3.45
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959305.998454,
+        "energy_consumption": 2.28
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959308.033997,
+        "energy_consumption": 3.35
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959310.071778,
+        "energy_consumption": 2.97
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959312.108875,
+        "energy_consumption": 1.41
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959314.149183,
+        "energy_consumption": 0.5
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959316.185895,
+        "energy_consumption": 2.56
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959318.231554,
+        "energy_consumption": 0.76
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959320.281288,
+        "energy_consumption": 2.8
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959322.317386,
+        "energy_consumption": 0.97
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959324.365815,
+        "energy_consumption": 1.89
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959326.4164119,
+        "energy_consumption": 1.23
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959328.471402,
+        "energy_consumption": 2.43
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959330.521805,
+        "energy_consumption": 2.75
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959332.576085,
+        "energy_consumption": 3.45
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959334.6285398,
+        "energy_consumption": 0.97
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959336.6849961,
+        "energy_consumption": 3.06
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959338.738135,
+        "energy_consumption": 1.24
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959340.797426,
+        "energy_consumption": 3.39
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959342.847556,
+        "energy_consumption": 2.28
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959344.8991191,
+        "energy_consumption": 1.56
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959346.954435,
+        "energy_consumption": 1.06
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959349.006737,
+        "energy_consumption": 1.51
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959351.0670679,
+        "energy_consumption": 1.13
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959353.126812,
+        "energy_consumption": 1.21
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959355.185785,
+        "energy_consumption": 2.31
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959357.231222,
+        "energy_consumption": 1.1
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959359.278049,
+        "energy_consumption": 1.09
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959361.3286982,
+        "energy_consumption": 2.03
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959363.376587,
+        "energy_consumption": 2.34
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959365.423718,
+        "energy_consumption": 2.65
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959367.472189,
+        "energy_consumption": 2.57
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959369.521301,
+        "energy_consumption": 1.12
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959371.569452,
+        "energy_consumption": 2.2
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959373.616964,
+        "energy_consumption": 0.78
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959375.665018,
+        "energy_consumption": 2.31
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959377.7033548,
+        "energy_consumption": 3.23
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959379.736616,
+        "energy_consumption": 0.93
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722959381.772872,
+        "energy_consumption": 2.99
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981697.686696,
+        "energy_consumption": 2.54
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981699.71101,
+        "energy_consumption": 3.02
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981701.735698,
+        "energy_consumption": 1.71
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981715.093785,
+        "energy_consumption": 2.17
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981717.1315231,
+        "energy_consumption": 2.75
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981719.17613,
+        "energy_consumption": 2.87
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981721.229742,
+        "energy_consumption": 2.38
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981723.2854888,
+        "energy_consumption": 1.5
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981725.347164,
+        "energy_consumption": 3.25
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981727.396736,
+        "energy_consumption": 0.95
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981729.449132,
+        "energy_consumption": 2.04
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981731.50326,
+        "energy_consumption": 0.72
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981733.5598028,
+        "energy_consumption": 2.97
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981735.615226,
+        "energy_consumption": 3.1
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981737.6737,
+        "energy_consumption": 2.92
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981739.734792,
+        "energy_consumption": 1.87
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981741.7933571,
+        "energy_consumption": 1.64
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981743.850559,
+        "energy_consumption": 3.31
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981745.910536,
+        "energy_consumption": 1.75
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981747.970987,
+        "energy_consumption": 1.04
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981750.024982,
+        "energy_consumption": 1.41
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981752.083589,
+        "energy_consumption": 0.68
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981754.142213,
+        "energy_consumption": 2.03
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981756.1928341,
+        "energy_consumption": 1.58
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981758.252296,
+        "energy_consumption": 2.85
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981760.312062,
+        "energy_consumption": 2.91
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981762.354752,
+        "energy_consumption": 2.58
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981764.398144,
+        "energy_consumption": 3.02
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981766.461903,
+        "energy_consumption": 3.09
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981768.5219939,
+        "energy_consumption": 0.61
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981770.581407,
+        "energy_consumption": 2.1
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981772.6401181,
+        "energy_consumption": 1.29
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981774.702202,
+        "energy_consumption": 1.48
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981776.764541,
+        "energy_consumption": 2.78
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981778.825194,
+        "energy_consumption": 3.02
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981780.878071,
+        "energy_consumption": 1.29
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981782.918567,
+        "energy_consumption": 1.77
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981784.9515798,
+        "energy_consumption": 1.01
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981786.997015,
+        "energy_consumption": 0.99
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981789.048033,
+        "energy_consumption": 3.24
+    },
+    {
+        "device_id": 3,
+        "timestamp": 1722981791.097713,
+        "energy_consumption": 3.0
+    }
+]
