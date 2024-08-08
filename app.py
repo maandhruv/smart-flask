@@ -128,5 +128,4 @@ def logout():
     return redirect('/login')
 
 if __name__ == "__main__":
-    db.create_all()  # This will create the new database with the updated schema
     app.run(debug=True, port=8000)
