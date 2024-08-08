@@ -123,7 +123,7 @@ const charts = {};
 
 function fetchDeviceData() {
     $.ajax({
-        url: '/device_data',
+        url: 'https://flask-api-sepia-three.vercel.app/device_data',
         type: 'GET',
         success: function(data) {
             console.log("Fetched data:", data);  // Log the fetched data
@@ -215,6 +215,7 @@ function fetchDeviceData() {
     });
 }
 
+
 function updateChart(deviceId) {
     const labels = deviceData[deviceId].map(data => new Date(data.timestamp * 1000).toLocaleTimeString());
     const energyConsumption = deviceData[deviceId].map(data => data.energy_consumption);
@@ -234,7 +235,7 @@ function getRandomColor() {
 }
 
 // Fetch device data every 7 seconds
-setInterval(fetchDeviceData, 10000);
+setInterval(fetchDeviceData, 1000);
 
 // Fetch device data on page load
 $(document).ready(function() {

@@ -5,6 +5,7 @@ import json
 from functools import wraps
 import bcrypt
 from datetime import datetime
+import requests
 
 app = Flask(__name__)
 
@@ -83,44 +84,37 @@ def login():
         
     return render_template('login.html')
 
+
+
 @app.route('/dashboard')
 @login_required
 def dashboard():
-    if session['username']:
+    if session.get('username'):
         user = User.query.filter_by(username=session['username']).first()
-        device_data = []
-        device_ids = [1, 2, 3, 4, 5]
-        for device_id in device_ids:
-            file_path = os.path.join(app.root_path, "devices", f"data_{device_id}.json")
-            if os.path.exists(file_path):
-                with open(file_path, "r") as f:
-                    try:
-                        data = json.load(f)
-                        if isinstance(data, dict):
-                            data = [data]
-                        device_data.extend(data) 
-                    except (json.JSONDecodeError, ValueError):
-                        continue 
+
+        # Fetch device data from the external API
+        try:
+            response = requests.get('https://flask-api-sepia-three.vercel.app/device_data')  # Replace with the actual URL
+            response.raise_for_status()  # Raise an HTTPError for bad responses
+            device_data = response.json()
+        except requests.RequestException as e:
+            print(f"Error fetching device data: {e}")
+            device_data = []
+
         return render_template('dashboard.html', user=user, device_data=device_data)
+    
     return redirect('/login')
+
 
 @app.route('/device_data')
 @login_required
 def device_data():
-    device_data = []
-    device_ids = [1, 2, 3, 4, 5]
-    for device_id in device_ids:
-        file_path = os.path.join(app.root_path, "devices", f"data_{device_id}.json")
-        if os.path.exists(file_path):
-            with open(file_path, "r") as f:
-                try:
-                    data = json.load(f)
-                    if isinstance(data, dict):
-                        data = [data]
-                    device_data.extend(data)
-                except (json.JSONDecodeError, ValueError):
-                    continue 
-    return jsonify(device_data)
+    response = requests.get('https://flask-api-sepia-three.vercel.app/device_data')  # URL of your external API
+    if response.status_code == 200:
+        device_data = response.json()
+        return jsonify(device_data)
+    else:
+        return jsonify({'error': 'Failed to fetch data'}), 500
 
 @app.route('/profile')
 @login_required
