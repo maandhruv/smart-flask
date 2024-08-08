@@ -9,7 +9,8 @@ import requests
 
 app = Flask(__name__)
 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///auth.db'
+# Replace this with your actual Render PostgreSQL URI
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres_smart_user:FvySqRafV5AOQlhgJRiWTtOerDgb039o@dpg-cqqgndrv2p9s73b7h3eg-a.oregon-postgres.render.com/postgres_smart'
 app.config['SECRET_KEY'] = 'mykey'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
@@ -26,7 +27,7 @@ class User(db.Model):
         self.username = username
         self.password = bcrypt.hashpw(password.encode('utf-8'), bcrypt.gensalt()).decode('utf-8')
         self.date_of_joining = datetime.utcnow()
-    
+
     def check_password(self, password):
         return bcrypt.checkpw(password.encode('utf-8'), self.password.encode('utf-8'))
 
@@ -128,4 +129,5 @@ def logout():
     return redirect('/login')
 
 if __name__ == "__main__":
-    app.run(debug=True, port=8000)
+    app.run(debug=True)
+
