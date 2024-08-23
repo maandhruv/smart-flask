@@ -9,7 +9,7 @@ import requests
 
 app = Flask(__name__)
 
-# Replace this with your actual Render PostgreSQL URI
+
 app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres_smart_user:FvySqRafV5AOQlhgJRiWTtOerDgb039o@dpg-cqqgndrv2p9s73b7h3eg-a.oregon-postgres.render.com/postgres_smart'
 app.config['SECRET_KEY'] = 'mykey'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
@@ -76,7 +76,7 @@ def login():
         user = User.query.filter_by(username=username).first()
         if user and user.check_password(password):
             session['username'] = user.username
-            user.last_login = datetime.utcnow()  # Update last login time
+            user.last_login = datetime.utcnow()  
             db.session.commit()
             return redirect('/dashboard')
         else:
@@ -93,10 +93,10 @@ def dashboard():
     if session.get('username'):
         user = User.query.filter_by(username=session['username']).first()
 
-        # Fetch device data from the external API
+       
         try:
-            response = requests.get('https://flask-api-sepia-three.vercel.app/device_data')  # Replace with the actual URL
-            response.raise_for_status()  # Raise an HTTPError for bad responses
+            response = requests.get('https://flask-api-sepia-three.vercel.app/device_data')  
+            response.raise_for_status()  
             device_data = response.json()
         except requests.RequestException as e:
             print(f"Error fetching device data: {e}")
@@ -110,7 +110,7 @@ def dashboard():
 @app.route('/device_data')
 @login_required
 def device_data():
-    response = requests.get('https://flask-api-sepia-three.vercel.app/device_data')  # URL of your external API
+    response = requests.get('https://flask-api-sepia-three.vercel.app/device_data')  
     if response.status_code == 200:
         device_data = response.json()
         return jsonify(device_data)
