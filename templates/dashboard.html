@@ -37,7 +37,7 @@
             padding-left: 10px;
         }
         .content {
-            margin-left: 220px; /* Adjust based on navbar width */
+            margin-left: 220px; 
             padding: 20px;
             flex: 1;
             color: white;
@@ -62,7 +62,7 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            height: 150px; /* Adjust as needed */
+            height: 150px; 
         }
         .card-left {
             width: 65%;
@@ -103,10 +103,10 @@
     </nav>
     <div class="content">
         <div id="device-cards" class="grid-container">
-            <!-- Device cards will be inserted here -->
+            
         </div>
         <div id="charts" class="chart-container">
-            <!-- Charts will be inserted here -->
+        
         </div>
     </div>
 
@@ -126,7 +126,7 @@ function fetchDeviceData() {
         url: 'https://flask-api-sepia-three.vercel.app/device_data',
         type: 'GET',
         success: function(data) {
-            console.log("Fetched data:", data);  // Log the fetched data
+            console.log("Fetched data:", data);  
             data.forEach(device => {
                 const deviceId = device.device_id;
 
@@ -197,17 +197,17 @@ function fetchDeviceData() {
                     $(`#device-${deviceId}-energy`).text(device.energy_consumption + ' kWh');
                 }
 
-                // Add latest data to the deviceData array
+                
                 if (deviceData[deviceId].length >= maxDataPoints) {
-                    deviceData[deviceId].shift(); // Remove the oldest data point if we have more than maxDataPoints
+                    deviceData[deviceId].shift(); 
                 }
                 deviceData[deviceId].push(device);
 
-                // Update chart for this device
+             
                 updateChart(deviceId);
             });
 
-            console.log("Updated device data:", deviceData);  // Log the updated device data
+            console.log("Updated device data:", deviceData);  
         },
         error: function(error) {
             console.log('Error fetching device data:', error);
@@ -234,10 +234,10 @@ function getRandomColor() {
     return color;
 }
 
-// Fetch device data every 7 seconds
-setInterval(fetchDeviceData, 10000);
 
-// Fetch device data on page load
+setInterval(fetchDeviceData, 4000);
+
+
 $(document).ready(function() {
     fetchDeviceData();
 });
